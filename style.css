@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+color: azure; 
+font-family:<font-family: "Oswald", sans-serif ;
+display:flex;
+justfy-content: center;
+aling-items:center;
+height: 700px;
+margin: 0;
+
+}
+button{background-color: aquamarine;
+color: aliceblue;
+}
